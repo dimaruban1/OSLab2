@@ -1,0 +1,15 @@
+C:\Users\Dima\source\repos\dining_guys\dining_guys\bin\Debug\net7.0\dining_guys.exe
+C:\Users\Dima\source\repos\dining_guys\dining_guys\bin\Debug\net7.0\dining_guys.deps.json
+C:\Users\Dima\source\repos\dining_guys\dining_guys\bin\Debug\net7.0\dining_guys.runtimeconfig.json
+C:\Users\Dima\source\repos\dining_guys\dining_guys\bin\Debug\net7.0\dining_guys.dll
+C:\Users\Dima\source\repos\dining_guys\dining_guys\bin\Debug\net7.0\dining_guys.pdb
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.csproj.AssemblyReference.cache
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.AssemblyInfo.cs
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.dll
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\refint\dining_guys.dll
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.pdb
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\dining_guys.genruntimeconfig.cache
+C:\Users\Dima\source\repos\dining_guys\dining_guys\obj\Debug\net7.0\ref\dining_guys.dll
